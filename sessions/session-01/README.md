@@ -28,18 +28,7 @@ La clave es ir construyendo poco a poco una forma de pensar más cercana a la re
 
 ## 2. Preparación del entorno
 
-Antes de empezar, comprobemos que tienes el entorno mínimo necesario para programar en Java.
-
-Abre una terminal y ejecuta estas dos comprobaciones:
-
-```bash
-java -version
-javac -version
-```
-
-Si ambos comandos funcionan, estás listo para escribir y ejecutar código Java. Si no aparece ninguna versión, es posible que necesites instalar el JDK de Java en tu equipo.
-
-No hace falta convertir esta parte en un tutorial exhaustivo: con tener Java instalado y saber ejecutar un programa desde la línea de comandos será suficiente para empezar.
+Como hemos hecho en clase, usaremos IntelliJ de Jetbrains para trabajar.  Éste nos proporciona un entorno de trabajo y un editor para programar y ejecutar.
 
 ## 3. ¿Qué es un objeto?
 

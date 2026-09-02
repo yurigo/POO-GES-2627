@@ -8,13 +8,20 @@ Queremos representar un sonido mediante una clase llamada Sound.
 ### 2. UML
 ### 3. Código
 
+---
+
+
 ## Modelar una calculadora de IMC
 
 Queremos representar una calculadora de IMC
 
+---
+
 ## Modelar un pokemon
 
 Queremos representar un sonido mediante una clase llamada Pokemon.
+
+---
 
 ## Modelar una señal cardíaca
 
@@ -89,6 +96,8 @@ signal.isTachycardia();
 `signal`
 `.`
 `isTachycardia()`
+
+---
 
 ## Diseña tu propio sensor médico
 

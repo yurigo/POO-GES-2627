@@ -26,11 +26,17 @@ No añadas conceptos principales que no se hayan solicitado.
 
 ## 3. Crear el directorio
 
-Crea `sessions/session-XX/` —con `XX` como número de dos dígitos— y, como
-mínimo, `sessions/session-XX/README.md`.
+Comprueba primero si existe `sessions/session-XX/` —con `XX` como número de dos
+dígitos—. Si existe, revisa todos sus archivos antes de crear o modificar
+contenido. El código y los recursos ya presentes forman parte del material real
+utilizado o preparado para clase: no los elimines, renombres ni reescribas salvo
+que la issue lo solicite expresamente.
 
-Crea `examples/`, `exercises/` o `assets/` dentro de la sesión solo cuando haya
-contenido que justifique esos directorios.
+La existencia previa del directorio no implica que la sesión esté terminada.
+Completa únicamente lo solicitado en la issue. Si no existe, créalo junto con,
+como mínimo, `sessions/session-XX/README.md`. Crea `examples/`, `exercises/` o
+`assets/` dentro de la sesión solo cuando haya contenido que justifique esos
+directorios.
 
 ## 4. Generar el README de sesión
 
@@ -51,6 +57,9 @@ Como referencia, puede incluir:
 
 Adapta la estructura a cada sesión y no incluyas secciones vacías.
 
+Cuando existan ejemplos o recursos previos, genera el README de forma coherente
+con ellos y enlaza los ejemplos relevantes.
+
 ## 5. Añadir ejemplos de código
 
 Cuando haya código, utiliza Java y ejemplos pequeños con nombres claros. Evita
@@ -59,6 +68,12 @@ explica qué pretende enseñar cada fragmento.
 
 Si hay código suficiente para archivos independientes, guárdalo en
 `sessions/session-XX/examples/` y enlázalo desde el README.
+
+Explica el código existente respetando su nivel y decisiones pedagógicas, aunque
+pudiera escribirse de una forma más avanzada o idiomática. Si contiene conceptos
+aún no introducidos formalmente, describe solo lo que la issue indique trabajar;
+no conviertas detalles accidentales del código en contenidos docentes nuevos ni
+sustituyas automáticamente el código del profesor.
 
 ## 6. Plantear ejercicios
 
@@ -89,3 +104,5 @@ Comprueba que:
 - los ejemplos coinciden con lo solicitado en la issue;
 - el README raíz incluye la nueva sesión;
 - no se han modificado innecesariamente sesiones anteriores.
+- el contenido previo de la sesión, si existía, se ha preservado y se refleja
+  correctamente en el README.

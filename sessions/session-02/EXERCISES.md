@@ -8,9 +8,9 @@ Queremos representar un sonido mediante una clase llamada Sound.
 ### 2. UML
 ### 3. Código
 
-## Modelar una calculadora de IMCP
+## Modelar una calculadora de IMC
 
-Queremos representar una calculadora de IMCP
+Queremos representar una calculadora de IMC
 
 ## Modelar un pokemon
 

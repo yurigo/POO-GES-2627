@@ -117,3 +117,44 @@ Puedes escoger, por ejemplo:
 - sensor de movimiento;
 - báscula;
 - o cualquier otro.
+
+### Parte 1 Abstracción
+
+Describe brevemente qué representa tu clase.
+Selecciona entre 3 y 5 atributos que consideres esenciales.
+Para cada atributo explica en una frase por qué es relevante.
+
+### Parte 2 Comportamiento
+
+Define al menos 3 métodos.
+
+Como mínimo:
+- uno debe mostrar información;
+- uno debe devolver un boolean;
+- uno debe realizar algún cálculo utilizando atributos del objeto.
+
+### Parte 3 UML
+
+Representa la clase mediante UML indicando:
+
+- nombre de la clase;
+- atributos y tipos;
+- métodos;
+- parámetros cuando sean necesarios;
+- tipo de retorno.
+
+### Parte 4 Java
+
+Crea al menos dos objetos diferentes y demuestra que tienen estados diferentes.
+
+Por ejemplo:
+
+```java
+TemperatureSensor sensor1 = new TemperatureSensor();
+TemperatureSensor sensor2 = new TemperatureSensor();
+```
+
+Modifica sus atributos y llama a varios métodos.
+
+
+

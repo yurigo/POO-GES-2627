@@ -332,27 +332,7 @@ Además, conecta muy bien con la encapsulación:
 Estas preguntas no tienen que resolverse ya de forma definitiva. Forman parte
 exactamente del razonamiento que queremos desarrollar.
 
-## 7. Qué no se ha explicado todavía
-
-La sesión tuvo un enfoque muy concreto y progresivo. Por eso no se introdujeron
-conceptos que aún no correspondían a este nivel del curso:
-
-- variables o métodos de clase (`static`);
-- relaciones UML formales;
-- asociación, agregación o composición como conceptos formales;
-- herencia;
-- polimorfismo;
-- interfaces;
-- clases abstractas;
-- colecciones;
-- excepciones.
-
-Aunque `Campo` tenga atributos de tipo `Bola`, no estamos todavía enseñando
-formalmente cómo se modelan las relaciones entre clases. Lo que importa en este
-momento es que dos objetos puedan colaborar sin adelantarnos a contenidos que se
-trabajarán en sesiones posteriores.
-
-## 8. Resumen
+## 7. Resumen
 
 La sesión de hoy ha puesto el foco en un punto clave:
 

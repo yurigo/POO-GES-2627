@@ -12,3 +12,4 @@ como índice de navegación.
 | 01 | Introducción a la programación orientada a objetos | [Sesión 01](sessions/session-01/README.md) |
 | 02 | Abstracción, UML y modelado de clases | [Sesión 02](sessions/session-02/README.md) |
 | 03 | Objetos, visibilidad y encapsulación | [Sesión 03](sessions/session-03/README.md) |
+| 04 | Actividades de modelado de clases e implementación | [Sesión 04](sessions/session-04/README.md) |

@@ -13,3 +13,4 @@ como índice de navegación.
 | 02 | Abstracción, UML y modelado de clases | [Sesión 02](sessions/session-02/README.md) |
 | 03 | Objetos, visibilidad y encapsulación | [Sesión 03](sessions/session-03/README.md) |
 | 04 | Actividades de modelado de clases e implementación | [Sesión 04](sessions/session-04/README.md) |
+| 05 | Entrada/salida por consola y ejemplo de IMC | [Sesión 05](sessions/session-05/README.md) |

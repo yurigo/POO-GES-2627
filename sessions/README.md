@@ -14,3 +14,4 @@ recursos adicionales pertenecen al directorio de la sesión correspondiente.
 - [Sesión 03](session-03/README.md) — Objetos, visibilidad y encapsulación
 - [Sesión 04](session-04/README.md) — Actividades de modelado de clases e implementación
 - [Sesión 05](session-05/README.md) — Entrada/salida por consola y ejemplo de IMC
+- [Sesión 06](session-06/README.md) — Lectura de ficheros, excepciones y presentación de la AC1

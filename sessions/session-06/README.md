@@ -118,9 +118,7 @@ En la segunda parte se presentó:
 
 - [AC1 — Simulador d'objectes](exercises/AC1.md)
 
-Punto clave: en esta sesión **solo** se presentó el enunciado y se empezó el trabajo de análisis/diseño. La solución completa se trabajará en sesiones posteriores.
-
-## 7. Primer trabajo de diseño (sin cerrar soluciones)
+## 7. Primer trabajo de diseño
 
 Antes de escribir todo el código, nos interesa pensar preguntas como:
 
@@ -135,28 +133,4 @@ Antes de escribir todo el código, nos interesa pensar preguntas como:
 - ¿Qué validaciones mínimas deben hacerse?
 - ¿Qué métodos empiezan a aparecer al leer el enunciado?
 
-Estas preguntas orientan el diseño inicial, pero **no** cierran todavía un UML final ni una implementación completa.
-
-## Resumen
-
-```text
-Scanner / teclado
-        ↓
-¿y si los datos están en un fichero?
-        ↓
-FileReader + BufferedReader
-        ↓
-una operación puede fallar
-        ↓
-primera aproximación a excepciones
-        ↓
-ejemplo 100 / 0 → ArithmeticException
-        ↓
-tarea: investigar escritura
-        ↓
-AC1
-        ↓
-leer requisitos antes de programar
-        ↓
-empezar a diseñar
-```
+Estas preguntas pueden orientarte en el diseño inicial.

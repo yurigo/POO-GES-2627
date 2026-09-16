@@ -14,3 +14,4 @@ como índice de navegación.
 | 03 | Objetos, visibilidad y encapsulación | [Sesión 03](sessions/session-03/README.md) |
 | 04 | Actividades de modelado de clases e implementación | [Sesión 04](sessions/session-04/README.md) |
 | 05 | Entrada/salida por consola y ejemplo de IMC | [Sesión 05](sessions/session-05/README.md) |
+| 06 | Lectura de ficheros, excepciones y presentación de la AC1 | [Sesión 06](sessions/session-06/README.md) |

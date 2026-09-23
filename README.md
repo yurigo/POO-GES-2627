@@ -16,3 +16,4 @@ como índice de navegación.
 | 05 | Entrada/salida por consola y ejemplo de IMC | [Sesión 05](sessions/session-05/README.md) |
 | 06 | Lectura de ficheros, excepciones y presentación de la AC1 | [Sesión 06](sessions/session-06/README.md) |
 | 07 | Trabajo práctico de AC1 y dudas sobre constructores | [Sesión 07](sessions/session-07/README.md) |
+| 08 | Relaciones UML: dependencia, asociación, agregación y composición | [Sesión 08](sessions/session-08/README.md) |

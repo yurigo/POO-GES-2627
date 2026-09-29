@@ -61,7 +61,8 @@ Para cada texto:
 1. anota las clases que crees que aparecen;
 2. escribe únicamente los atributos explícitos que encuentres;
 3. dibuja el UML solo con el nombre de la clase y sus atributos;
-4. deja para más adelante las relaciones y la herencia.
+4. dibuja las relaciones entre clases.
+5. deja para más adelante la herencia.
 
 ---
 

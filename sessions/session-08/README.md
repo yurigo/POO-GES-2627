@@ -23,3 +23,12 @@ Se ha resuelto el ejercicio de la sesión 4 (copiados también en la sesión 8):
 > Una empresa de electrodomésticos, identificada con un NIF y un nombre comercial, consta de una serie de naves industriales distribuidas por el país. Cada nave tiene un número de teléfono y está ubicada en una dirección física. La dirección física está caracterizada por el nombre de la calle, el número, el código postal y la provincia donde está ubicada. Adicionalmente, una nave está formada por distintas áreas. Un área puede ser de tipo: producción, administración o comercial. Con independencia de su tipo, todas las áreas son identificadas mediante un código alfanumérico.
 
 Se pide hacer los demás [ejercicios](EXERCISES.md) en casa
+
+## Diagramas UML de la sesión
+
+Se han preparado los diagramas UML de:
+
+- los ejemplos vistos en clase (dependencia, asociación, agregación y composición);
+- el ejercicio 1.
+
+Puedes consultarlos en [UML.md](./UML.md).

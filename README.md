@@ -17,3 +17,4 @@ como índice de navegación.
 | 06 | Lectura de ficheros, excepciones y presentación de la AC1 | [Sesión 06](sessions/session-06/README.md) |
 | 07 | Trabajo práctico de AC1 y dudas sobre constructores | [Sesión 07](sessions/session-07/README.md) |
 | 08 | Relaciones UML: dependencia, asociación, agregación y composición | [Sesión 08](sessions/session-08/README.md) |
+| 09 | Ejercicios de modelado UML | [Sesión 09](sessions/session-09/README.md) |

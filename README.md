@@ -18,3 +18,4 @@ como índice de navegación.
 | 07 | Trabajo práctico de AC1 y dudas sobre constructores | [Sesión 07](sessions/session-07/README.md) |
 | 08 | Relaciones UML: dependencia, asociación, agregación y composición | [Sesión 08](sessions/session-08/README.md) |
 | 09 | Ejercicios de modelado UML | [Sesión 09](sessions/session-09/README.md) |
+| 10 | Implementación del centro médico y `ArrayList` | [Sesión 10](sessions/session-10/README.md) |

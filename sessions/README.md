@@ -18,3 +18,4 @@ recursos adicionales pertenecen al directorio de la sesión correspondiente.
 - [Sesión 07](session-07/README.md) — Trabajo práctico de AC1 y dudas sobre constructores
 - [Sesión 08](session-08/README.md) — Relaciones UML: dependencia, asociación, agregación y composición
 - [Sesión 09](session-09/README.md) — Ejercicios de modelado UML
+- [Sesión 10](session-10/README.md) — Implementación del centro médico y `ArrayList`

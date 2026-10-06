@@ -5,17 +5,17 @@
 ```mermaid
 classDiagram
     class CentroMedico {
-        +codigo : String
-        +nombre : String
+        -codigo : String
+        -nombre : String
     }
 
     class Consulta {
-        +numero : int
-        +planta : int
+        -numero : int
+        -planta : int
     }
 
     class Camilla {
-        +numeroSerie : String
+        -numeroSerie : String
     }
 
     CentroMedico "1" -- "1..*" Consulta : dispone de
@@ -27,23 +27,23 @@ classDiagram
 ```mermaid
 classDiagram
     class Equipo {
-        +codigo : String
-        +modelo : String
-        +fechaUltimaRevision : Date
+        -codigo : String
+        -modelo : String
+        -fechaUltimaRevision : Date
     }
 
     class Muestra {
-        +identificador : String
-        +fechaExtraccion : Date
-        +volumen : double
+        -identificador : String
+        -fechaExtraccion : Date
+        -volumen : double
     }
 
     class Analisis
 
     class Resultado {
-        +valor : double
-        +unidadMedida : String
-        +fecha : Date
+        -valor : double
+        -unidadMedida : String
+        -fecha : Date
     }
 
     Equipo "1" -- "0..*" Analisis : realiza
@@ -56,24 +56,24 @@ classDiagram
 ```mermaid
 classDiagram
     class Festival {
-        +nombre : String
-        +ciudad : String
-        +fechaInicio : Date
+        -nombre : String
+        -ciudad : String
+        -fechaInicio : Date
     }
 
     class Escenario {
-        +nombre : String
-        +capacidadMaxima : int
+        -nombre : String
+        -capacidadMaxima : int
     }
 
     class GrupoMusical {
-        +nombre : String
-        +paisOrigen : String
+        -nombre : String
+        -paisOrigen : String
     }
 
     class Actuacion {
-        +horaInicio : String
-        +duracion : int
+        -horaInicio : String
+        -duracion : int
     }
 
     Festival "1" -- "1..*" Escenario : organiza
@@ -89,20 +89,20 @@ classDiagram
     class Plataforma
 
     class Videojuego {
-        +identificador : String
-        +titulo : String
-        +precio : double
-        +fechaLanzamiento : Date
+        -identificador : String
+        -titulo : String
+        -precio : double
+        -fechaLanzamiento : Date
     }
 
     class Usuario {
-        +nombreUsuario : String
-        +correoElectronico : String
+        -nombreUsuario : String
+        -correoElectronico : String
     }
 
     class Compra {
-        +fecha : Date
-        +precio : double
+        -fecha : Date
+        -precio : double
     }
 
     Plataforma "1" -- "0..*" Videojuego : incluye en el catalogo
@@ -118,30 +118,30 @@ classDiagram
     class CompaniaAerea
 
     class Avion {
-        +matricula : String
-        +modelo : String
-        +maximoPasajeros : int
+        -matricula : String
+        -modelo : String
+        -maximoPasajeros : int
     }
 
     class Vuelo {
-        +codigo : String
-        +fecha : Date
-        +horaSalida : String
-        +horaEstimadaLlegada : String
+        -codigo : String
+        -fecha : Date
+        -horaSalida : String
+        -horaEstimadaLlegada : String
     }
 
     class Aeropuerto {
-        +codigoInternacional : String
-        +nombre : String
-        +ciudad : String
+        -codigoInternacional : String
+        -nombre : String
+        -ciudad : String
     }
 
     class Pasajero
 
     class Reserva {
-        +codigoLocalizador : String
-        +fecha : Date
-        +numeroAsiento : int
+        -codigoLocalizador : String
+        -fecha : Date
+        -numeroAsiento : int
     }
 
     CompaniaAerea "1" -- "0..*" Avion : gestiona

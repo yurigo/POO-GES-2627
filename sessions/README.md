@@ -20,3 +20,4 @@ recursos adicionales pertenecen al directorio de la sesión correspondiente.
 - [Sesión 09](session-09/README.md) — Ejercicios de modelado UML
 - [Sesión 10](session-10/README.md) — Implementación del centro médico y `ArrayList`
 - [Sesión 11](session-11/README.md) — Del UML a Java, `ArrayList` y GRASP
+- [Sesión 12](session-12/README.md) — Herencia y polimorfismo

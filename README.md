@@ -20,3 +20,4 @@ como índice de navegación.
 | 09 | Ejercicios de modelado UML | [Sesión 09](sessions/session-09/README.md) |
 | 10 | Implementación del centro médico y `ArrayList` | [Sesión 10](sessions/session-10/README.md) |
 | 11 | Del UML a Java, `ArrayList` y GRASP | [Sesión 11](sessions/session-11/README.md) |
+| 12 | Herencia y polimorfismo | [Sesión 12](sessions/session-12/README.md) |

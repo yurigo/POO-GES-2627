@@ -21,3 +21,4 @@ como índice de navegación.
 | 10 | Implementación del centro médico y `ArrayList` | [Sesión 10](sessions/session-10/README.md) |
 | 11 | Del UML a Java, `ArrayList` y GRASP | [Sesión 11](sessions/session-11/README.md) |
 | 12 | Herencia y polimorfismo | [Sesión 12](sessions/session-12/README.md) |
+| 13 | Sobreescritura y encadenado de constructores con `super` | [Sesión 13](sessions/session-13/README.md) |

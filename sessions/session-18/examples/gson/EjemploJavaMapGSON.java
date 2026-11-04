@@ -15,8 +15,8 @@ public class Main {
         /*
          {
                 "1": {
-                    "login": "yuri",
-                    "password": "yuri"
+                    "login": "Bob",
+                    "password": "bob"
                 },
                 "2": {
                     "login": "Alice",
@@ -25,19 +25,19 @@ public class Main {
             }
          */
 
-        String filepath = "./usuarios.json";
+        String filepath = "./usuarios-object.json";
 
         File jsonfile = new File(filepath);
         try {
             FileReader fileReader = new FileReader(jsonfile);
 
-            Type type = new TypeToken<List<User>>() {}.getType()
+            // Doc util: https://www.baeldung.com/gson-json-to-map
+            Map<Integer, User> usuarios = gson.fromJson(fileReader , new TypeToken<Map<Integer, User>>() {}.getType());
             
-            List<User> usuarios = gson.fromJson(fileReader, type);
-
+            System.out.println(usuarios.get(2).getLogin());
             
-            for (User usuario: usuarios) {
-                System.out.println(usuario);
+            for (User usuario: usuarios.values()) {
+                System.out.println(usuario.getLogin() + " " + usuario.getPassword());
             }
             
         } catch (FileNotFoundException e) {

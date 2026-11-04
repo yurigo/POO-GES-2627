@@ -1,0 +1,18 @@
+[
+  {
+    "login": "Alice",
+    "password": "4L1C3",
+    "age": 42,
+    "hairColor": "BLONDE"
+  },
+  {
+    "login": "Bob",
+    "password": "B0B",
+    "age": 18
+  },
+  {
+    "login": "Charlie",
+    "age": 33,
+    "password": "CH4RL13"
+  }
+]

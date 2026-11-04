@@ -25,3 +25,5 @@ recursos adicionales pertenecen al directorio de la sesión correspondiente.
 - [Sesión 14](session-14/README.md) — Trabajo práctico: aparcamiento de vehículos
 - [Sesión 15](session-15/README.md) — Clases abstractas e interfaces
 - [Sesión 16](session-16/README.md) — GRASP y arquitectura por capas
+- [Sesión 17](session-17/README.md) — Patron Repository
+- [Sesión 18](session-18/README.md) — Herramientas para el proyecto: SoundSynth y JSON

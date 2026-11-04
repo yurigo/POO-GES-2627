@@ -25,3 +25,5 @@ como índice de navegación.
 | 14 | Trabajo práctico: aparcamiento de vehículos | [Sesión 14](sessions/session-14/README.md) |
 | 15 | Clases abstractas e interfaces | [Sesión 15](sessions/session-15/README.md) |
 | 16 | GRASP y arquitectura por capas | [Sesión 16](sessions/session-16/README.md) |
+| 17 | Patron Repository | [Sesión 16](sessions/session-17/README.md) |
+| 18 | Herramientas para el proyecto: SoundSynth y JSON | [Sesión 16](sessions/session-18/README.md) |
